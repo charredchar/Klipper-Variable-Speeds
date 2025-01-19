@@ -1,5 +1,5 @@
-# Klipper-Variable-Accel-and-SCV
-Scripts for running variable Acceleration and SCV during different features on a print in Klipper.
+# Klipper Variable Speeds
+Scripts for running variable Acceleration, SCV and Speed during different features on a print in Klipper.
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
