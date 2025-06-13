@@ -1,6 +1,8 @@
 # Klipper Variable Speeds
 Scripts for running variable Acceleration, SCV and Speed during different features on a print in Klipper.
 
+Warning: The OrcaSlicer code has not been updated in line with the SuperSlicer code due to my refusal to use the software. Use as your own risk.
+
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
